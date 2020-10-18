@@ -1,0 +1,23 @@
+{
+  "name": "KWEB_2020_Study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyp3rflow/KWEB_2020_Study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyp3rflow/KWEB_2020_Study/issues"
+  },
+  "homepage": "https://github.com/hyp3rflow/KWEB_2020_Study#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
